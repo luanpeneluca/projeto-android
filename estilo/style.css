@@ -50,8 +50,8 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     max-width: 500px;
-    margin: auto auto 10px auto;
-    padding: 0px 10px ;
+    margin: auto;
+    padding: 0px 10px 10px 10px ;
 }
 
 nav {
